@@ -1,0 +1,9 @@
+address 218.28.9.173
+ssl-lport 20080
+ca C:\Program Files\iscpclient\config\д╛хо\ca.crt
+cipher-suite ALL
+encrypt-type 4
+ssl-client-port 0
+log C:\Program Files\iscpclient\nbclientVPN.log
+reconnection-interval 300
+number-of-reconnections 6

@@ -1,0 +1,10 @@
+{
+    "name":"com.google.chrome.extension.clientvpnproxy",
+    "description":"check, load and get information from native vpn client extension",
+    // path 必须为绝对路径，指向要启动的程序
+    "path":"..\\..\\bin\\clientVpnProxy.exe",
+    "type":"stdio",
+    "allowed_origins":[
+        "chrome-extension://akpnmldbnoebenfankolkddlkfklodoc/"
+    ]
+}
